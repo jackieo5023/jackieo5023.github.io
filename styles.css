@@ -20,6 +20,10 @@ p {
     margin-right: 1.5em;
 }
 
+.fa-envelope-o {
+    margin-right: 0em;
+}
+
 .fa:link, .fa:visited {
     color: black;
     text-decoration: none;
