@@ -9,6 +9,6 @@ p {
     text-decoration: none;
 }
 
-.icon:hover {
+.icon.link:hover {
     color: blue;
 }
